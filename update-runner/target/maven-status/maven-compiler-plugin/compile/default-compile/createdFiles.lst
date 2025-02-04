@@ -1,0 +1,4 @@
+selfupdate/runner/UpdateRunnerApplication.class
+selfupdate/runner/UpdateController.class
+selfupdate/runner/UpdateRunnerService.class
+selfupdate/runner/VersionInfo.class
